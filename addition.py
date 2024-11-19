@@ -1,2 +1,2 @@
-fruits = ["apple","banana","carrot","cherry","blueberry","mangogit addg"]
+fruits = ["apple","banana"],
 for fruit in fruits:
